@@ -1,0 +1,12 @@
+{
+  "name": "js homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest",
+    "watch": "npm test -- --watch-all"
+  },
+  "author": "",
+  "license": "ISC"
+}
