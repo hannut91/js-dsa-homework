@@ -1,5 +1,5 @@
 {
-  "name": "js homework",
+  "name": "js-homework",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,5 +8,8 @@
     "watch": "npm test -- --watch-all"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
